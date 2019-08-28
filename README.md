@@ -1,0 +1,2 @@
+# Smart-Pills-Box
+Among older people there is a common incident of short-term memory problem. Some of those people must take important pills on a daily basis, not taking the pills can affect their health. In our project, we have developed and manufactured a smart pills box. when the time for taking the pills arrives, LED light up to alerts the patient to take the pills. In addition, a text message is sent to the son / grandson to inform them that it is time to take the pills and if they have been taken.
